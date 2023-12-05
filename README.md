@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ingeniero en sistemas con más de 10 años de experiencia en diversas tecnologías para desarrollo de software. Profesional, innovador, autodidacta, con capacidad de análisis y destreza en resolución de problemas.<br>I’m currently working with Python and React-Redux<br>I’m currently learning AWS and Machine Learning
+Ingeniero en sistemas con más de 10 años de experiencia en diversas tecnologías para desarrollo de software. Profesional, innovador, autodidacta, con capacidad de análisis y destreza en resolución de problemas.<br>I’m currently working with Python and React-Redux<br>I’m currently learning NestJS and Terraform
 
 
 ## 🌐 Socials:
